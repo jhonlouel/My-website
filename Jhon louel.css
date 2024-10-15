@@ -1,0 +1,52 @@
+
+a:hover {
+	background-color: darkkhaki;
+}
+
+img.asd{
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+ }
+	
+.title {
+			margin: 20;
+			margin-right: 745px;
+}
+
+a:hover {
+	background-color: darkkhaki;
+}
+table{
+
+	background-color: darkkhaki;
+}
+td{
+	border-radius: 10px; 
+	margin: 10px;
+	padding: 20px;
+}
+		
+.title {
+			margin: 20;
+			margin-right: 745px;
+}
+
+.container {
+			width: 70%;
+			height: 450px;
+			display: flex;
+			gap: 10px;
+		}
+.container img {
+			width: 10%;
+			height: 90%;
+			object-fit: cover;
+			border-radius: 10px;
+			border-style: solid;
+			border-color: lightblue;
+		}
+
+		.container img:hover {
+			width: 25%;
+		}
